@@ -1,0 +1,11 @@
+{
+  "parts":[
+    {
+      "name": "footer",
+      "hooks": {
+        "eejsBlock_scripts": "ep_footer/index"
+      }
+    }
+  ]
+}
+

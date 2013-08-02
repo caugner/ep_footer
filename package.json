@@ -1,0 +1,31 @@
+{
+  "name": "ep_footer",
+  "version": "0.0.1",
+  "description": "Add footer to EtherPad Lite by adding `ep_footer:\"...\"` to settings.json",
+  "keywords": [
+    "etherpad",
+    "html",
+    "footer"
+  ],
+  "bugs": {
+    "url": "https://github.com/caugner/ep_footer/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Claas Augner",
+    "email": "node@caugner.de"
+  },
+  "contributors": [],
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/caugner/ep_footer.git"
+  },
+  "readme": "# ep_footer\n\nAdd footer to EtherPad Lite by adding `ep_footer: \"...\"` to settings.json\n",
+  "readmeFilename": "README.md",
+  "_id": "ep_footer@0.0.1",
+  "dist": {
+    "shasum": "eb8bb0da29469677431cf55c680ed368b3a9c700"
+  },
+  "_from": "node_modules/ep_footer/"
+}
